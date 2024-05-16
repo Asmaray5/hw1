@@ -1,5 +1,3 @@
-*hw 1 commands 
-
 qui {
 	clear 
 	cls
