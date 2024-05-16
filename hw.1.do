@@ -5,7 +5,9 @@
 *Class
 *stata programming II
 
-*hw 1 do file. qui {
+*hw 1 commands 
+
+qui {
 	clear 
 	cls
 	if c(N) { //background
