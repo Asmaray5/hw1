@@ -1,10 +1,3 @@
-
-*name 
-*Asma Rayani
-
-*Class
-*stata programming II
-
 *hw 1 commands 
 
 qui {
